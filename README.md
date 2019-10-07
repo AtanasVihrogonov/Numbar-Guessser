@@ -1,4 +1,4 @@
-### The number guessing game is a game where the player tries to guess the target number. The number is random generate.
+##### The number guessing game is a game where the player tries to guess the target number. The number is random generate.
 
 ## Tehnologies
 > The game is created with:
